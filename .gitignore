@@ -103,3 +103,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# output video files
+*.mp4
+
+# pycharm files
+.idea/

@@ -14,10 +14,11 @@ These instructions will get you a copy of the project up and running on your loc
 Ensure the computer you are using to run this project has a webcam. 
 
 These are the library versions I am using (other versions haven't been tested):
+UPDATED 3/20/25 (YMMV)
 ```
-python 2.7.13
-numpy  1.13.1
-opencv 4.5.5
+python 3.11
+numpy  2.2.4
+opencv 4.11.0.86
 ```
 
 ### Installing
